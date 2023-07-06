@@ -1,5 +1,5 @@
-echo SSH origin :;
-read varname;
+printf 'SSH origin : ';
+read -r varname;
 git init;
 git add .;
 git commit -m 'first commit';
