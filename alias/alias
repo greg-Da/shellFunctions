@@ -1,0 +1,11 @@
+# GIT CLONE
+alias gc="git clone"
+
+
+## LARAVEL
+
+# PHP ARTISAN
+alias arti="php artisan"
+
+# PHP ARTISAN
+alias pas="php artisan serve"

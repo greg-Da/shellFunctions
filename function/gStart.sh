@@ -1,3 +1,4 @@
+# Create a new github repo then use this function to initiate it and push your first commit
 gStart () { 
     printf 'SSH origin : ';
     read -r varname;
